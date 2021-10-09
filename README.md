@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Natan Rauber, mobile developer!
 
 <div style="display: inline_block"><br>
+  <a href="https://github.com/natanrauber">
   <img align="center" alt="Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
